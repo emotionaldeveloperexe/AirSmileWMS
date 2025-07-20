@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36212.18 d17.14
+VisualStudioVersion = 17.14.36212.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirSmileWMS.Kernel", "AirSmileWMS.Kernel\AirSmileWMS.Kernel.csproj", "{05525013-63AC-4044-AFE6-A3CF4BA0C6E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirSmileWMS.Tests", "AirSmileWMS.Tests\AirSmileWMS.Tests.csproj", "{84FD6A5D-1C24-4F40-B225-EEE63237A3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirSmileWMS.Admin", "AirSmileWMS.Admin\AirSmileWMS.Admin.csproj", "{B7D8BC34-7313-482F-B8B2-CB3617BB05DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{84FD6A5D-1C24-4F40-B225-EEE63237A3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FD6A5D-1C24-4F40-B225-EEE63237A3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FD6A5D-1C24-4F40-B225-EEE63237A3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D8BC34-7313-482F-B8B2-CB3617BB05DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D8BC34-7313-482F-B8B2-CB3617BB05DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D8BC34-7313-482F-B8B2-CB3617BB05DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D8BC34-7313-482F-B8B2-CB3617BB05DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
